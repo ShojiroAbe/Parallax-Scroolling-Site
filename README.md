@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=Nt70Ld0dJCM
 
 https://www.youtube.com/watch?v=4n4VUS7Dg74
 
+TweenMaxのオプション解説
+
+https://rfs.jp/sb/javascript/03js/greensock.html
+
 Qiita記事
 
 https://qiita.com/ariiyu/items/0309b53167ef69bedc1b

@@ -1,6 +1,8 @@
 let controller = new ScrollMagic.Controller();
 let timeline = new TimelineMax();
 
+// TimeLineMaxはメソッドチェーンが使えるので、インスタンスを生成したあと、to()やfrom()など複数のメソッドをドット（ . ）で連結することができます。
+
 // TweenMax.from(ターゲット, アニメーション秒数, {
 //   CSSプロパティ: 値,
 //   CSSプロパティ: 値,
